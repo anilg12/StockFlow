@@ -1,0 +1,12 @@
+# StockFlow · Anıl Gül · 2025
+#
+# Bu projede dış bağımlılık yok. Her şey Python standart kütüphanesiyle yazıldı:
+#
+#   tkinter / tkinter.ttk  -> arayüz
+#   sqlite3                -> veritabanı
+#   hashlib                -> PBKDF2-SHA256 parola özeti
+#   csv, calendar, datetime, pathlib, platform
+#
+# Gereken tek şey Python 3.8 veya üzeri.
+# Windows'ta resmi python.org kurulumu tkinter'ı zaten içerir.
+# Linux'ta ayrıca gerekebilir:  sudo apt install python3-tk
