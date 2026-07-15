@@ -83,8 +83,8 @@ Python yoksa [python.org](https://www.python.org/downloads/) adresinden indirin.
 Sonra bu depoyu indirin:
 
 ```bash
-git clone https://github.com/anilgul/stockflow.git
-cd stockflow
+git clone https://github.com/anilg12/StockFlow.git
+cd StockFlow
 ```
 
 Zip olarak indirdiyseniz klasörü istediğiniz yere çıkarın.
